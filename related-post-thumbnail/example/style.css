@@ -1,0 +1,29 @@
+#leftRail h6 {
+                    font-size: 13px;
+                    font-weight: bold;
+                    margin:1em 0 0 0;
+                    padding:0;
+}
+
+#leftRail h6 a{
+                    text-decoration: underline;
+}
+
+#sidebar .relatedImgLink {
+                    height:82px;
+                    width:270px;
+                    display:block;
+                    background:transparent url(images/relatedImage.jpg) no-repeat scroll 0% 50%;
+                    margin-left:-26px;
+                    padding:20px 0pt 0pt 26px;
+}
+
+#sidebar .relatedImg {
+                    display: block;
+                    border: 1px solid #e0e0e0;
+                    height: auto;
+                    width: auto;
+                    padding:0;
+                    margin:0;
+}  
+
